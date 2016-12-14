@@ -1,0 +1,11 @@
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
